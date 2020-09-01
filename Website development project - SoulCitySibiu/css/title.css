@@ -1,0 +1,20 @@
+.home .home-content .block span {
+    display: inline-block;
+}
+
+.home .home-content .block span:hover {
+    color: #0bbe91;
+    transition: all .5s;
+}
+
+.home .home-content .block span.m-left {
+    margin-left: -10px;
+}
+
+.home .home-content .block p {
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    font-size: .8rem;
+    color: #fff;
+    padding-top: 10px;
+}
